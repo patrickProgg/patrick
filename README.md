@@ -60,9 +60,8 @@ A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **J
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=partrickProgg&show_icons=true&theme=tokyonight&border_color=8A2BE2&bg_color=00000000)
-![GitHub Streak](https://streak-stats.demolab.com?user=partrickProgg&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariadevhub&layout=compact&theme=tokyonight)
+!Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickProgg&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickProgg&layout=compact&theme=tokyonight)
 
 ---
 
