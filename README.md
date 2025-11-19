@@ -2,10 +2,20 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" alt="Animated Header" width="100%">
+  
   <br>
-  <h2>Welcome to my digital workshop!</h2>
-  <hr>
+
+  <h2 style="
+      font-family: 'Orbitron', sans-serif;
+      color: #00f0ff;
+      text-shadow: 0 0 10px #00f0ff, 0 0 20px #0066ff;
+      letter-spacing: 3px;">
+    ✨ WELCOME TO MY DIGITAL WORKSHOP ✨
+  </h2>
+
+  <hr style="border: 1px solid #00f0ff; width: 70%; box-shadow: 0 0 10px #00f0ff;">
 </div>
+
 
 ## 👩‍💻 Full-Stack Web Developer  
 I create user-friendly, scalable websites and internal systems that help teams and businesses work smarter.
@@ -54,14 +64,13 @@ A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **J
 #### 🛠 Tech Stack  
 `CodeIgniter 3` · `PHP` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `jQuery` · `DataTables` · `Chart.js`
 
-![PO Monitoring Screenshot](https://github.com/mariadevhub/mariadevhub/blob/main/PO-monitoring.png)
 
 ---
 
 ## 📈 GitHub Stats  
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickProgg&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alturas-dev/van-manifest-local&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickProgg&layout=compact&theme=tokyonight)
 
 
 ---
