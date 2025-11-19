@@ -60,7 +60,7 @@ A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **J
 
 ## 📈 GitHub Stats  
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariadevhub&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=partrick&show_icons=true&theme=tokyonight&border_color=8A2BE2&bg_color=00000000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariadevhub&layout=compact&theme=tokyonight)
 
 ---
