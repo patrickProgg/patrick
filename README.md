@@ -6,15 +6,21 @@
   <br>
 
   <h2 style="
-      font-family: 'Orbitron', sans-serif;
-      color: #00f0ff;
-      text-shadow: 0 0 10px #00f0ff, 0 0 20px #0066ff;
-      letter-spacing: 3px;">
-    ✨ WELCOME TO MY DIGITAL WORKSHOP ✨
+      font-family: 'Audiowide', sans-serif;
+      color: #aaf7ff;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      text-shadow: 0 0 8px #6ff, 0 0 16px #0ff;">
+    ⧉ SYSTEM ONLINE: DIGITAL WORKSHOP ACTIVATED ⧉
   </h2>
 
-  <hr style="border: 1px solid #00f0ff; width: 70%; box-shadow: 0 0 10px #00f0ff;">
+  <hr style="
+      border: 1px solid #0ff;
+      width: 75%;
+      filter: drop-shadow(0 0 6px #0ff);
+  ">
 </div>
+
 
 
 ## 👩‍💻 Full-Stack Web Developer  
