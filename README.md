@@ -1,7 +1,7 @@
 # ✨ Hi, I'm **Patrick Henry V. Bersaluna**
 
 <div align="center">
-<img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M3dHbuZzgzOTZ4cHdwa20yNXF3amh0amZnNHJvaTJjejM3/ariWjKu5N73y/giphy.gif]" alt="Animated Header" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Header" width="100%">
   
   <br>
 
