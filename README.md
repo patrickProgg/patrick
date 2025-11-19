@@ -1,4 +1,4 @@
-# ✨ Hi, I'm **Maria Leonilyn Naive**
+# ✨ Hi, I'm **Patrick Henry V. Bersaluna**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" alt="Animated Header" width="100%">
@@ -40,13 +40,12 @@ I create user-friendly, scalable websites and internal systems that help teams a
 
 ## ⭐ Featured Project  
 
-### 📊 **Purchasing Order Monitoring System**  
+### 📊 **Van Manifest System**  
 
-A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, and **MySQL** — designed to streamline purchasing operations and improve inter-departmental transparency.
+A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, and **MySQL** — designed to streamline purchasing operations and tracking of orders.
 
 #### 🔧 Core Features  
-- Vendor-based order management  
-- Real-time status updates (Pending, Done, Overdue, Not Due Yet)  
+- Logistics and orders tracking 
 - Role-based access (Purchasing, Pricing, Accounting, Audit)  
 - Smart filters for vendors/departments  
 - Analytics dashboard with charts + summary metrics  
