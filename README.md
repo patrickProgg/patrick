@@ -52,12 +52,24 @@ I create user-friendly, scalable websites and internal systems that help teams a
 A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, and **MySQL** — designed to streamline purchasing operations and tracking of orders.
 
 #### 🔧 Core Features  
-- Logistics and orders tracking for Alturas Group of Companies
-- Role-based access
-- User-friendly and responsive interface
+- Logistics and orders tracking for Alturas Group of Companies.
+- Role-based access.
+- User-friendly and responsive interface.
 
 #### 🛠 Tech Stack  
-`CodeIgniter 3` · `PHP` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `jQuery` · `DataTables` · `Chart.js`
+`CodeIgniter 3` · `PHP` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `jQuery` · `DataTables` · `Bootstrap 5`
+
+### 📊 **Loan Monitoring System**  https://loan-monitoring.alwaysdata.net/
+
+A **web-based system** built using also **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, **MySQL**, and **Using AlwaysData Server** — made to make my personal client loan business easy to track and monitor data and for auditing purposes.
+
+#### 🔧 Core Features  
+- Tracking and monitoring of loan release, money pull out and expenses.
+- Daily, weekly and monthly monitoring of all menus.
+- Creative dashboard with statistics.
+
+#### 🛠 Tech Stack  
+`CodeIgniter 3` · `PHP 8.2.30` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `jQuery` · `DataTables` · `Bootstrap 5`
 
 
 ---
