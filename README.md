@@ -73,7 +73,8 @@ A custom-built loan tracking system developed for a freelance client to streamli
 - **DataTables Integration:** Sort, filter, and search through records efficiently
 
 #### 🛠 Tech Stack
-- **Backend:** CodeIgniter 3, PHP, MySQL
+- **Framework:** CodeIgniter 3 (PHP)
+- **Database:** MySQL
 - **Frontend:** HTML5, CSS3, JavaScript, jQuery, DataTables
 - **Deployment:** AlwaysData Server
 
