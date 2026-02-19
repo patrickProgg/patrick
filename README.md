@@ -47,7 +47,8 @@ I create user-friendly, scalable websites and internal systems that help teams a
 
 ## ⭐ Featured Project  
 
-### 📊 **Van Manifest System**  https://van-manifest.alturush.com/
+### 📊 **Van Manifest System**  
+<https://van-manifest.alturush.com/>
 
 A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, and **MySQL** — designed to streamline purchasing operations and tracking of orders.
 
@@ -60,7 +61,8 @@ A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **J
 `CodeIgniter 3` · `PHP` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `jQuery` · `DataTables` · `Bootstrap 5`
 
 
-### 📊 **Loan Monitoring System**  https://loan-monitoring.alwaysdata.net/
+### 📊 **Loan Monitoring System**
+<https://loan-monitoring.alwaysdata.net/>
 
 A **web-based system** built using also **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, **MySQL**, and **Using AlwaysData Server** — made to make my personal client loan business easy to track and monitor data and for auditing purposes.
 
