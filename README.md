@@ -85,7 +85,7 @@ A **web-based system** built using also **CodeIgniter 3**, **PHP**, **JavaScript
 ## 🤝 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PATRICKHENRYBERSALUNA115@GMAIL.COM)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.link)
 
 ---
