@@ -25,7 +25,7 @@ I create user-friendly, scalable websites and internal systems that help teams a
 💻 Experienced in both **frontend and backend development**  
 ⚙️ Passionate about building **clean interfaces** and **efficient backend logic**  
 🚀 Always exploring new tools to improve workflow and development quality  
-🌏 Based in the **Philippines 🇵🇭**, collaborating with global and remote teams  
+🌏 Based in the **Philippines 🇵🇭** with 1 year and half experience in programming  
 ☕ Fun fact: I code better with coffee and calm music — my productivity combo!
 
 ---
@@ -76,9 +76,7 @@ A **web-based system** built using also **CodeIgniter 3**, **PHP**, **JavaScript
 
 ## 🤝 Let's Connect  
   
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PATRICKHENRYBERSALUNA115@GMAIL.COM)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PATRICKHENRYBERSALUNA115@GMAIL.COM) 
-[Send me an email](mailto:PATRICKHENRYBERSALUNA115@GMAIL.COM)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PATRICKHENRYBERSALUNA115@GMAIL.COM) patrickhenrybersaluna115@gmail.com
 
 ---
 
