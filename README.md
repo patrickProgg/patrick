@@ -78,7 +78,7 @@ A **web-based system** built using also **CodeIgniter 3**, **PHP**, **JavaScript
 
 ## 🤝 Let's Connect  
   
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PATRICKHENRYBERSALUNA115@GMAIL.COM) patrickhenrybersaluna115@gmail.com
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PATRICKHENRYBERSALUNA115@GMAIL.COM) <patrickhenrybersaluna115@gmail.com>
 
 ---
 
