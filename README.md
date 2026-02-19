@@ -78,6 +78,8 @@ A **web-based system** built using also **CodeIgniter 3**, **PHP**, **JavaScript
   
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PATRICKHENRYBERSALUNA115@GMAIL.COM)
 
+[Send me an email](mailto:PATRICKHENRYBERSALUNA115@GMAIL.COM)
+
 ---
 
 ### ✨ *"Code with purpose. Build with passion. Empower with design."*
