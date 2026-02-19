@@ -78,7 +78,7 @@ A custom-built loan tracking system developed for a freelance client to streamli
 - **Deployment:** AlwaysData Server
 
 #### 📁 Repository
-[![GitHub Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrickProgg/loan-monitoring)
+[![GitHub Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrickProgg/monitoring-sys)
 
 ---
 
