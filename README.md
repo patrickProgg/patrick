@@ -20,10 +20,15 @@ I build user-friendly, scalable web applications and internal systems that help 
 
 ## 🌸 About Me
 💡 1.5+ years of experience developing web-based systems using PHP (CodeIgniter), JavaScript, and MySQL
+
 💻 Skilled in both frontend (responsive UIs) and backend (business logic, database design)
+
 ⚙️ Passionate about writing clean, maintainable code and solving real-world problems
+
 🚀 Continuously learning new tools and best practices to improve development workflow
+
 🌏 Based in the Philippines 🇵🇭
+
 ☕ Fun fact: My productivity combo is coffee + lo-fi music — it's where the magic happens!
 
 ---
