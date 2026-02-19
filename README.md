@@ -66,7 +66,7 @@ A comprehensive logistics and order tracking system built for Alturas Group of C
 
 
 ### 📊 **Loan Monitoring System**
-🔗 **Live Demo:** <https://loan-monitoring.alwaysdata.net/>
+🔗 **Live Demo:** <[https://loan-monitoring.alwaysdata.net/](https://loan-monitoring.alwaysdata.net/loan-monitoring-test/client)>
 
 A custom-built loan tracking system developed for a freelance client to streamline loan management and auditing.
 
