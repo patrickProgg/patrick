@@ -47,16 +47,14 @@ I create user-friendly, scalable websites and internal systems that help teams a
 
 ## ⭐ Featured Project  
 
-### 📊 **Van Manifest System**  
+### 📊 **Van Manifest System**  https://van-manifest.aschub.ph/
 
 A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, and **MySQL** — designed to streamline purchasing operations and tracking of orders.
 
 #### 🔧 Core Features  
-- Logistics and orders tracking 
-- Role-based access (Purchasing, Pricing, Accounting, Audit)  
-- Smart filters for vendors/departments  
-- Analytics dashboard with charts + summary metrics  
-- User-friendly and responsive interface  
+- Logistics and orders tracking for Alturas Group of Companies
+- Role-based access
+- User-friendly and responsive interface
 
 #### 🛠 Tech Stack  
 `CodeIgniter 3` · `PHP` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `jQuery` · `DataTables` · `Chart.js`
