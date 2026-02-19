@@ -62,17 +62,23 @@ A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **J
 
 
 ### 📊 **Loan Monitoring System**
-<https://loan-monitoring.alwaysdata.net/>
+🔗 **Live Demo:** <https://loan-monitoring.alwaysdata.net/>
 
-A **web-based system** built using also **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, **MySQL**, and **Using AlwaysData Server** — made to make my personal client loan business easy to track and monitor data and for auditing purposes.
+A custom-built loan tracking system developed for a freelance client to streamline loan management and auditing.
 
-#### 🔧 Core Features  
-- Tracking and monitoring of loan release, money pull out and expenses.
-- Daily, weekly and monthly monitoring of all menus.
-- Creative dashboard with statistics.
+#### 🔧 Core Features
+- **Loan Tracking:** Monitor loan releases, payments, and expenses
+- **Daily/Weekly/Monthly Reports:** Comprehensive monitoring across all transactions
+- **Interactive Dashboard:** Visual statistics and data insights
+- **DataTables Integration:** Sort, filter, and search through records efficiently
 
-#### 🛠 Tech Stack  
-`CodeIgniter 3` · `PHP 8.2.30` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `jQuery` · `DataTables` · `Bootstrap 5`
+#### 🛠 Tech Stack
+- **Backend:** CodeIgniter 3, PHP, MySQL
+- **Frontend:** HTML5, CSS3, JavaScript, jQuery, DataTables
+- **Deployment:** AlwaysData Server
+
+#### 📁 Repository
+[![GitHub Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrickProgg/loan-monitoring)
 
 ---
 
