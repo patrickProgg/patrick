@@ -14,19 +14,17 @@
 
 
 
-## 👩‍💻 Full-Stack Web Developer  
-I create user-friendly, scalable websites and internal systems that help teams and businesses work smarter.
-
+## 👨‍💻 Full-Stack Web Developer
+I build user-friendly, scalable web applications and internal systems that help businesses work smarter and teams collaborate better.
 ---
 
-## 🌸 About Me  
-
-💡 Skilled in **PHP (CodeIgniter)**, **JavaScript**, **HTML5**, **CSS3**, and **MySQL**  
-💻 Experienced in both **frontend and backend development**  
-⚙️ Passionate about building **clean interfaces** and **efficient backend logic**  
-🚀 Always exploring new tools to improve workflow and development quality  
-🌏 Based in the **Philippines 🇵🇭** with 1 year and half experience in programming  
-☕ Fun fact: I code better with coffee and calm music — my productivity combo!
+## 🌸 About Me
+💡 1.5+ years of experience developing web-based systems using PHP (CodeIgniter), JavaScript, and MySQL
+💻 Skilled in both frontend (responsive UIs) and backend (business logic, database design)
+⚙️ Passionate about writing clean, maintainable code and solving real-world problems
+🚀 Continuously learning new tools and best practices to improve development workflow
+🌏 Based in the Philippines 🇵🇭
+☕ Fun fact: My productivity combo is coffee + lo-fi music — it's where the magic happens!
 
 ---
 
@@ -48,14 +46,15 @@ I create user-friendly, scalable websites and internal systems that help teams a
 ## ⭐ Featured Project  
 
 ### 📊 **Van Manifest System**  
-<https://van-manifest.alturush.com/>
+🔗 Live Demo: <https://van-manifest.alturush.com/>
 
-A comprehensive **web-based system** built using **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, and **MySQL** — designed to streamline purchasing operations and tracking of orders.
+A comprehensive logistics and order tracking system built for Alturas Group of Companies to streamline purchasing operations and shipment monitoring.
 
-#### 🔧 Core Features  
-- Logistics and orders tracking for Alturas Group of Companies.
-- Role-based access.
-- User-friendly and responsive interface.
+#### 🔧 Core Features
+- Order Tracking: End-to-end monitoring of shipments and deliveries
+- Role-Based Access: Secure authentication with user permissions
+- Responsive Interface: Clean, intuitive design for desktop and mobile
+- Real-Time Updates: Live status tracking for orders
 
 #### 🛠 Tech Stack  
 `CodeIgniter 3` · `PHP` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `jQuery` · `DataTables` · `Bootstrap 5`
@@ -79,7 +78,7 @@ A custom-built loan tracking system developed for a freelance client to streamli
 - **Deployment:** AlwaysData Server
 
 #### 📁 Repository
-📌 **Code is private** – Available for review during technical interviews.
+📌 **Code is private** – Contains proprietary business logic. Available for review during technical interviews.
 
 ---
 
