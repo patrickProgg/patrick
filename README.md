@@ -72,15 +72,6 @@ A **web-based system** built using also **CodeIgniter 3**, **PHP**, **JavaScript
 #### 🛠 Tech Stack  
 `CodeIgniter 3` · `PHP 8.2.30` · `JavaScript` · `HTML5` · `CSS3` · `MySQL` · `jQuery` · `DataTables` · `Bootstrap 5`
 
-
----
-
-## 📈 GitHub Stats  
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickProgg&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickProgg&layout=compact&theme=tokyonight)
-
-
 ---
 
 ## 🤝 Let's Connect  
