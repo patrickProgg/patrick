@@ -117,10 +117,11 @@ A custom-built loan tracking system developed for a freelance client to streamli
 - **Frontend:** HTML5, CSS3, JavaScript, jQuery, DataTables
 - **Deployment:** AlwaysData Server
 
+---
+
 #### 📁 Repository
 📌 **Code is private** – Contains proprietary business logic. Available for review during technical interviews.
 
----
 
 ## 🤝 Let's Connect  
   
