@@ -66,6 +66,8 @@ A comprehensive inventory and merchandise tracking system developed for Universa
 #### 🛠 Tech Stack
 `CodeIgniter 3` · `PHP` · `JavaScript` · `jQuery` · `MySQL` · `Bootstrap 5` · `HTML5/CSS3`
 
+#### 📁 Access
+🔒 **Live testing available upon request during technical interviews** – Please contact me to schedule a demo.
 ---
 
 ### 📊 **Van Manifest System**  
