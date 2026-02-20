@@ -50,7 +50,7 @@ I build user-friendly, scalable web applications and internal systems that help 
 
 ## ⭐ Featured Project  
 
-### 🏭 **Universal Robina Corporation (URC) and Merchandise Management System (MMS)**  
+### 🏭 **Universal Robina Corporation (URC)**  
 **In-House System** · *Confidential*
 
 A comprehensive inventory and merchandise tracking system developed for Universal Robina Corporation to streamline stock monitoring and distribution operations across multiple locations.
@@ -67,7 +67,23 @@ A comprehensive inventory and merchandise tracking system developed for Universa
 `CodeIgniter 3` · `PHP` · `JavaScript` · `jQuery` · `MySQL` · `Bootstrap 5` · `HTML5/CSS3`
 
 ---
+### 🛒 ** Merchandise Management System (MMS)**  
+**In-House System** · *Confidential*
 
+A unified ordering platform that centralizes item requisitions across all AGC subsidiaries, streamlining procurement and inventory management for the entire group.
+
+#### 🔧 Core Features
+- **Centralized Ordering:** Single platform for all AGC companies to submit and track orders
+- **Multi-Company Support:** Separate ordering portals for different AGC subsidiaries
+- **Inventory Sync:** Automatic stock level updates across all branches
+- **Approval Workflow:** Multi-level approval process for orders
+- **Consolidated Reporting:** Group-wide procurement analytics and insights
+- **Vendor Management:** Centralized supplier database and purchase order generation
+
+#### 🛠 Tech Stack
+`CodeIgniter 3` · `PHP` · `JavaScript` · `jQuery` · `MySQL` · `DataTables` · `Bootstrap 5` · `HTML5/CSS3`
+
+---
 ### 📊 **Van Manifest System**  
 Live demo access is granted upon request during technical interviews to verify development skills and system functionality.
 
