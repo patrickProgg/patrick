@@ -50,7 +50,7 @@ I build user-friendly, scalable web applications and internal systems that help 
 
 ## ⭐ Featured Project  
 
-### 🏭 **Universal Robina Corporation (URC) and Merchandise Monitoring System (MMS)**  
+### 🏭 **Universal Robina Corporation (URC) and Merchandise Management System (MMS)**  
 **In-House System** · *Confidential*
 
 A comprehensive inventory and merchandise tracking system developed for Universal Robina Corporation to streamline stock monitoring and distribution operations across multiple locations.
