@@ -84,7 +84,7 @@ A unified ordering platform that centralizes item requisitions across all AGC su
 `CodeIgniter 3` · `PHP` · `JavaScript` · `jQuery` · `MySQL` · `DataTables` · `Bootstrap 5` · `HTML5/CSS3`
 
 ---
-### 📊 **Van Manifest System**  
+### 🚚 **Van Manifest System**  
 Live demo access is granted upon request during technical interviews to verify development skills and system functionality.
 
 A comprehensive logistics and order tracking system built for Alturas Group of Companies to streamline purchasing operations and shipment monitoring.
@@ -98,6 +98,7 @@ A comprehensive logistics and order tracking system built for Alturas Group of C
 #### 🛠 Tech Stack  
 `CodeIgniter 3` · `PHP` · `JavaScript` · `jQuery` · `MySQL` · `Bootstrap 5` · `HTML5/CSS3`
 
+---
 
 ### 📊 **Loan Monitoring System**
 🔗 **Live Demo:** <https://loan-monitoring.alwaysdata.net/loan-monitoring-test/client>
