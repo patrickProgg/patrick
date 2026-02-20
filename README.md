@@ -50,6 +50,24 @@ I build user-friendly, scalable web applications and internal systems that help 
 
 ## ⭐ Featured Project  
 
+### 🏭 **Universal Robina Corporation (URC) - Merchandise Monitoring System (MMS)**  
+**In-House System** · *Confidential*
+
+A comprehensive inventory and merchandise tracking system developed for Universal Robina Corporation to streamline stock monitoring and distribution operations across multiple locations.
+
+#### 🔧 Core Features
+- **Inventory Tracking:** Monitor merchandise levels across different warehouses and retail points
+- **Distribution Management:** Track product movement from warehouse to retailers
+- **Automated Reordering:** Generate purchase orders when stock reaches threshold levels
+- **Expiry Date Monitoring:** Alert system for soon-to-expire products
+- **Multi-branch Support:** Centralized dashboard for all locations
+- **Role-Based Access:** Different permission levels for warehouse staff, managers, and admins
+
+#### 🛠 Tech Stack
+`CodeIgniter 3` · `PHP` · `JavaScript` · `jQuery` · `MySQL` · `DataTables` · `Bootstrap 5` · `HTML5/CSS3`
+
+---
+
 ### 📊 **Van Manifest System**  
 🔗 Live Demo: <https://van-manifest.alturush.com/>
 
