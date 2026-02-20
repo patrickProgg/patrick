@@ -67,7 +67,7 @@ A comprehensive inventory and merchandise tracking system developed for Universa
 `CodeIgniter 3` · `PHP` · `JavaScript` · `jQuery` · `MySQL` · `Bootstrap 5` · `HTML5/CSS3`
 
 ---
-### 🛒 ** Merchandise Management System (MMS)**  
+### 🛒 **Merchandise Management System (MMS)**  
 **In-House System** · *Confidential*
 
 A unified ordering platform that centralizes item requisitions across all AGC subsidiaries, streamlining procurement and inventory management for the entire group.
