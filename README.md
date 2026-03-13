@@ -34,12 +34,12 @@ I build user-friendly, scalable web applications and internal systems that help 
 ---
 
 ## 🧰 Tech Stack  
-Backend:      PHP, CodeIgniter 3, Laravel, RESTful APIs
-Frontend:     JavaScript, Vue.js, jQuery, HTML5, CSS3, Bootstrap
-Database:     MySQL, SQL queries, Database Design
-Tools:        Git, GitHub, Composer, npm
-Others:       AJAX, JSON, MVC Architecture, DataTables, SweetAlert2
-
+- **Backend:** : PHP, CodeIgniter 3, Laravel
+- **Frontend:** : JavaScript, Vue.js, jQuery, HTML5, CSS3, Bootstrap
+- **Database:** : MySQL, SQL queries, Database Design
+- **Tools:** : Git, GitHub, Composer, npm
+- **Others:** : AJAX, JSON, MVC Architecture, DataTables, SweetAlert2
+  
 ---
 
 ## ⭐ Featured Project  
